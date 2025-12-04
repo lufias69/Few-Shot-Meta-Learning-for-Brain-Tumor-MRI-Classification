@@ -4,7 +4,7 @@
 
 **Title**: Few-Shot Meta-Learning dengan Prototypical Networks untuk Klasifikasi Tumor Otak dari Citra MRI
 
-**Authors**: Research Team  
+**Authors**: Muhammad Atnang, Syaiful Bachri Mustamin  
 **Date**: December 2024  
 **Framework**: PyTorch 2.9.1+cpu  
 **Status**: ✅ **Training Complete - Ready for Publication**
