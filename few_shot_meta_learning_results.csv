@@ -1,0 +1,5 @@
+Model,Test_Accuracy,F1_Score,Approach
+Classical SVM,85.0,0.857,Classical ML
+Pure QSVM,22.5,0.092,Quantum
+Hybrid QNN,40.6,0.406,Quantum-Classical
+Few-Shot Meta-Learning (Ours),80.375,0.803348314579676,Deep Meta-Learning
