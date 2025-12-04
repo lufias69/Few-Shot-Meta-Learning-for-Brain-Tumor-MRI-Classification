@@ -461,8 +461,8 @@ Brain_Tumor_MRI/
 ## 📧 Contact
 
 **Research Team**  
-Institution: [Your University]  
-Email: research.team@university.edu  
+Institution: ISTEK Aisyiyah Kendari 
+Email: sbm@istekaisyiyah.ac.id 
 GitHub: [Repository Link]
 
 For questions, collaboration, or dataset access:
